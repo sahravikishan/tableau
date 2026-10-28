@@ -1,0 +1,41 @@
+Order ID,Order Date,Customer ID,Product ID,Product,Category,State,City,Salesperson,Region,Quantity,Sales,Discount,Profit
+ORD001,2026-01-03,C001,P001,Shampoo,Personal Care,Maharashtra,Pune,Amit,North,10,12500.0,500.0,2500.0
+ORD002,2026-01-05,C002,P002,Bath Soap,Personal Care,Gujarat,Ahmedabad,Priya,West,20,18000.0,1000.0,3500.0
+ORD003,2026-01-07,C003,P003,Biscuits,Food,Karnataka,Bengaluru,Rahul,South,50,15000.0,750.0,3000.0
+ORD004,2026-01-10,C004,P004,Cooking Oil,Food,Maharashtra,Mumbai,Sneha,West,15,22500.0,1125.0,4200.0
+ORD005,2026-01-12,C005,P005,Detergent,Home Care,Delhi,New Delhi,Vikas,North,12,14400.0,720.0,2800.0
+ORD006,2026-01-14,C006,P006,Toothpaste,Personal Care,Tamil Nadu,Chennai,Neha,South,25,20000.0,1000.0,4500.0
+ORD007,2026-01-16,C007,P007,Tea,Beverages,West Bengal,Kolkata,Rohan,East,30,16500.0,825.0,3200.0
+ORD008,2026-01-18,C008,P008,Coffee,Beverages,Maharashtra,Pune,Amit,North,18,21600.0,1080.0,3900.0
+ORD009,2026-01-20,C009,P009,Floor Cleaner,Home Care,Gujarat,Surat,Priya,West,14,12600.0,630.0,2400.0
+ORD010,2026-01-22,C010,P010,Handwash,Personal Care,Karnataka,Mysuru,Rahul,South,16,12800.0,640.0,2500.0
+ORD011,2026-01-24,C011,P001,Shampoo,Personal Care,Maharashtra,Nagpur,Sneha,West,8,10000.0,400.0,1800.0
+ORD012,2026-01-25,C012,P003,Biscuits,Food,Delhi,New Delhi,Vikas,North,40,12000.0,600.0,2200.0
+ORD013,2026-01-27,C013,P004,Cooking Oil,Food,Tamil Nadu,Coimbatore,Neha,South,10,15000.0,750.0,2700.0
+ORD014,2026-01-28,C014,P006,Toothpaste,Personal Care,West Bengal,Kolkata,Rohan,East,20,16000.0,800.0,3000.0
+ORD015,2026-01-29,C015,P007,Tea,Beverages,Maharashtra,Pune,Amit,North,22,12100.0,605.0,2300.0
+ORD016,2026-02-01,C016,P008,Coffee,Beverages,Gujarat,Vadodara,Priya,West,12,14400.0,720.0,2600.0
+ORD017,2026-02-03,C017,P009,Floor Cleaner,Home Care,Karnataka,Hubballi,Rahul,South,10,9000.0,450.0,1700.0
+ORD018,2026-02-05,C018,P010,Handwash,Personal Care,Maharashtra,Nashik,Sneha,West,18,14400.0,720.0,2700.0
+ORD019,2026-02-07,C019,P002,Bath Soap,Personal Care,Delhi,Gurugram,Vikas,North,25,22500.0,1125.0,4300.0
+ORD020,2026-02-09,C020,P005,Detergent,Home Care,Tamil Nadu,Madurai,Neha,South,15,18000.0,900.0,3400.0
+ORD021,2026-02-11,C021,P011,Shampoo,Personal Care,Maharashtra,Pune,Amit,North,10,12500.0,500.0,2500.0
+ORD022,2026-02-13,C022,P002,Bath Soap,Personal Care,gujarat,Ahmedabad,Priya,West,20,,1000.0,3500.0
+ORD023,2026-02-15,,P003,Biscuits,Food,Karnataka,Bengaluru,Rahul,South,50,15000.0,750.0,3000.0
+ORD024,2026-02-17,C024,P004,Cooking Oil,Food,Maharashtra,Mumbai,Sneha,West,0,22500.0,1125.0,4200.0
+ORD025,2026-02-19,C025,P005,Detergent,Home Care,Delhi,New Delhi,Vikas,North,-5,-6000.0,300.0,-1200.0
+ORD026,2026-02-21,C026,P006,Toothpaste,Personal Care,Tamil Nadu,Chennai,Neha,South,25,20000.0,,4500.0
+ORD027,2026-02-23,C027,P007,Tea,Beverages,West Bengal,Kolkata,Rohan,East,30,16500.0,825.0,
+ORD028,2026-02-25,C028,P008,Coffee,Beverages,Maharashtra,Pune,Amit,North,18,21600.0,1080.0,3900.0
+ORD029,2026-02-27,C029,P009,Floor Cleaner,Home Care,Gujarat,Surat,Priya,West,14,12600.0,630.0,2400.0
+ORD030,2026-03-01,C030,P010,Handwash,Personal Care,Karnataka,Mysuru,Rahul,South,16,12800.0,640.0,2500.0
+ORD031,2026-03-03,C031,P001,Shampoo,Personal Care,Maharashtra,Pune, Amit ,North,8,10000.0,400.0,1800.0
+ORD032,2026-03-05,C032,P003,Biscuits,Food,Delhi,New Delhi,VIKAS,North,40,12000.0,600.0,2200.0
+ORD033,2026-03-07,C033,P004,Cooking Oil,Food,Tamil Nadu,Coimbatore,Neha,South,10,15000.0,750.0,2700.0
+ORD034,2026-03-09,C034,P006,Toothpaste,Personal Care,West Bengal,Kolkata,Rohan,East,20,16000.0,800.0,3000.0
+ORD035,2026-03-11,C035,P007,Tea,Beverages,Maharashtra,Pune,Amit,North,22,12100.0,605.0,2300.0
+ORD036,2026-03-13,C036,P008,Coffee,Beverages,Gujarat,Vadodara,Priya,West,12,14400.0,720.0,2600.0
+ORD037,2026-03-15,C037,P009,Floor Cleaner,Home Care,Karnataka,Hubballi,Rahul,South,10,9000.0,450.0,1700.0
+ORD038,2026-03-17,C038,P010,Handwash,Personal Care,Maharashtra,Nashik,Sneha,West,18,14400.0,720.0,2700.0
+ORD039,2026-03-19,C039,P002,Bath Soap,Personal Care,Delhi,Gurugram,Vikas,North,25,22500.0,1125.0,4300.0
+ORD040,2026-03-21,C040,P005,Detergent,Home Care,Tamil Nadu,Madurai,Neha,South,15,18000.0,900.0,3400.0
